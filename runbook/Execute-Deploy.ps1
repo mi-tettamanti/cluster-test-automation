@@ -1,6 +1,6 @@
 workflow Execute-Deploy
 {
-    $AzureSubscriptionName = """
+    $AzureSubscriptionName = ""
     $AzureOrgIdCredentialName = ""
     $ServiceName = ""
     $VMName = ""
